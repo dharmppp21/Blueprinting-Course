@@ -1,6 +1,9 @@
+Saved/
+Intermediate/
+DerivedDataCache/
 # Visual Studio 2015 user specific files
 .vs/
-
+Resources/
 # Compiled Object files
 *.slo
 *.lo
